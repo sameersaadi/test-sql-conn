@@ -5,7 +5,7 @@ Simple python app/script to test SQL connection
 After closing the repo:
 
 1. Create your python environment 
-2. pip install requirements.txt
+2. pip install -r requirements.txt
 3. execute `python test_sql_conn.py`
 
 ## using Docker
