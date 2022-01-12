@@ -11,3 +11,5 @@ After closing the repo:
 ## using Docker
 Available as docker image, use the following command to run anywhere docker is available:   
 `docker run -it ssaadi/test-sql-conn`
+
+More info at: https://hub.docker.com/r/ssaadi/test-sql-conn
